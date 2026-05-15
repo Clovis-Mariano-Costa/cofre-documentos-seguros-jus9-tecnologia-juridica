@@ -1,17 +1,10 @@
-# Cofre Documental Jus 9
+# Cofre Documentos Seguros Jus 9
 
-## Repertório
+CLASSIFICAÇÃO: COFRE / PRIVADO  
+PUBLICAÇÃO: proibida  
+CLOUDFLARE: não conectar  
+GITHUB PAGES: desativado  
 
-`cofre-jus9-documentos-seguros`
+Repositório privado para cofre documental seguro da Jus 9 e da Charlie Echo.
 
-## Status
-
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria repertório para políticas, metadados, classificação, cadeia de custódia e segurança de cofre documental, sem armazenar conteúdo secreto real em GitHub público.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.

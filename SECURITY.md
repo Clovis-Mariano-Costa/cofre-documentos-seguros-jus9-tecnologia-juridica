@@ -1,18 +1,9 @@
-# SECURITY
+# SEGURANÇA
 
-Não publicar:
+Não publicar chaves, tokens, senhas, `.env` real, dados protegidos, segredo de justiça, documentos sigilosos/secretos, conteúdo de cofre, conteúdo militar/sagrado sensível ou carta ao Presidente.
 
-- chaves;
-- tokens;
-- senhas;
-- secrets;
-- `.env` real;
-- dados pessoais protegidos;
-- segredo de justiça;
-- documentos sigilosos;
-- documentos secretos;
-- conteúdo de cofre;
-- conteúdo militar/sagrado sensível;
-- localizações, chaves ou detalhes operacionais de cofres.
+Repositórios públicos devem conter apenas conteúdo público ou sanitizado.
 
-Toda alteração que envolva IA, Direito, dados de usuários, documentos, logs, cofre, governança, segurança, sagrado ou militar exige revisão humana.
+O cofre da Charlie deve permanecer privado, sem GitHub Pages e sem Cloudflare público.
+
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
