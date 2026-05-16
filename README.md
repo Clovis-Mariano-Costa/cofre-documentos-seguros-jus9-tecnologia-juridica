@@ -1,10 +1,11 @@
-# Cofre Documentos Seguros Jus 9
+# cofre-documentos-seguros-jus9-tecnologia-juridica
 
-CLASSIFICAÇÃO: COFRE / PRIVADO  
-PUBLICAÇÃO: proibida  
-CLOUDFLARE: não conectar  
-GITHUB PAGES: desativado  
 
-Repositório privado para cofre documental seguro da Jus 9 e da Charlie Echo.
+## Links institucionais Jus 9 v1.5
 
-© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
+- [Equipe Jus 9](https://www.jus9tecnologia.com.br/equipe/)
+- [Investidores](https://investimentos.jus9tecnologia.com.br/)
+- [MVP](https://www.jus9tecnologia.com.br/mvp)
+- [Charlie Echo](https://charlieecho.jus9tecnologia.com.br/)
+- [Charlie Echo Social](https://jus9verde.jus9tecnologia.com.br/charlie-echo-social)
+- [Contato](mailto:clovis@jus9tecnologia.com.br)
