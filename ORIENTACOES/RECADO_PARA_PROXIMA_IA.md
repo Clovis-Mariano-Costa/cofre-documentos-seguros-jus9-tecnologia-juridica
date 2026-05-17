@@ -1,25 +1,21 @@
-# Recado para a próxima IA — cofre-documentos-seguros-jus9-tecnologia-juridica
+# RECADO PARA A PRÓXIMA IA
 
-Este arquivo registra continuidade para qualquer IA ou assistente que leia este repertório.
+Antes de modificar este repertório, leia:
 
-## Prioridades gerais
+1. Este recado.
+2. O mapa de links oficiais.
+3. A política de criptografia e segurança.
+4. A hierarquia de princípios, cláusulas pétreas e leis maiores.
+5. O versionamento mais recente.
 
-1. Preservar links e botões antigos aprovados.
-2. Atualizar sem quebrar rotas públicas.
-3. Usar assinatura com © quando possível e cabível.
-4. Manter autoria Jus 9 / Aeon Primevo / Charlie Echo quando aplicável.
-5. Separar público, interno, sigiloso, secreto, cofre e dados sensíveis.
-6. Não publicar chaves, tokens, senhas, `.env` ou conteúdo protegido.
-7. Quando a produção ficar média ou grande, oferecer pacote ou link de download.
-8. O último pacote do ciclo deve revisar todos os pacotes.
+## Regras essenciais
 
-## Links institucionais sugeridos
+- Preserve links antigos sempre que possível; se mudar rota, crie ponte/redirecionamento.
+- Não publique segredo real em GitHub.
+- Não altere princípios fundadores, cláusulas pétreas, Constituição ou leis maiores sem autorização do Fundador.
+- Antes de apagar arquivo redundante, liste e peça aprovação.
+- Use “Jus 9 Tecnologia Jurídica” quando couber como nome institucional completo.
+- Use assinatura com © quando cabível.
+- Em caso de conteúdo secreto, trate como Cofre.
 
-- Equipe: https://www.jus9tecnologia.com.br/equipe/
-- Site principal: https://www.jus9tecnologia.com.br/
-- Investimentos: https://investimentos.jus9tecnologia.com.br/
-- Charlie Echo: https://charlieecho.jus9tecnologia.com.br/
-
-## Observação
-
-Este repertório foi incluído no Mão na Massa final com o melhor conteúdo disponível neste chat. Se o Fundador possuir versão local mais recente, comparar antes de substituir.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
