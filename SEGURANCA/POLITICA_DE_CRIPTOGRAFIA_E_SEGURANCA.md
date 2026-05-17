@@ -1,31 +1,34 @@
-# POLÍTICA DE CRIPTOGRAFIA E SEGURANÇA
+# Política de criptografia e segurança — orientação comum
 
-## Regra geral
+CLASSIFICAÇÃO: PÚBLICO / SEGURANÇA / NÃO PUBLICAR SEGREDOS
 
-Nenhum segredo real deve ser publicado no GitHub.
+## Princípio
 
-Não versionar:
+Criptografia deve proteger dados reais; aviso visual não substitui segurança técnica.
+
+## No GitHub
+
+O GitHub deve conter apenas código, documentação, exemplos, `.env.example` e dados fictícios.
+
+Nunca publicar:
 
 - senhas reais;
 - tokens;
 - chaves privadas;
+- seeds;
 - `.env` real;
-- dados sensíveis;
-- documentos de cliente;
-- conteúdo secreto ou de cofre.
+- dados pessoais sensíveis;
+- documentos de clientes/usuários;
+- documentos sigilosos de terceiros.
 
-## Camadas recomendadas
+## Produção futura
 
-1. GitHub público apenas com modelos, documentação e exemplos sem segredo real.
-2. Cloudflare Access / Zero Trust para proteger rotas e áreas privadas.
-3. Workers Secrets para chaves e tokens.
-4. R2 privado para documentos protegidos.
-5. URLs assinadas e temporárias para downloads sensíveis.
-6. Logs mínimos de acesso e revisão humana.
-7. Criptografia client-side para material de máxima sensibilidade, quando a chave puder ser guardada com segurança humana.
+- HTTPS obrigatório.
+- Senhas com hash forte.
+- Secrets fora do repositório.
+- Controle de acesso por perfil.
+- Logs de auditoria.
+- Armazenamento privado para anexos.
+- Revisão humana e governança.
 
-## Limite máximo prudente
-
-O limite máximo recomendado é: autenticação forte + autorização por perfil + armazenamento privado + criptografia em repouso + criptografia em trânsito + secrets fora do GitHub + logs + revisão humana.
-
-Para conteúdo realmente secreto, usar criptografia antes do upload e aceitar que a perda da chave pode significar perda definitiva do conteúdo.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.

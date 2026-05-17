@@ -1,21 +1,43 @@
-# Recado para Próxima IA — Encerramento do Pacote Governança v2.1
+# Recado para a próxima IA — Pacote Visual MVP Fase 1 (v2_2)
 
-Antes de qualquer alteração, leia a governança aplicável e avalie repertórios conexos.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
 
-## Regra funcional
+## Regra funcional principal
 
-Nenhum repertório da Jus 9 Tecnologia Jurídica deve ser tratado como ilha. Alterações relevantes podem afetar links, botões, páginas, currículo, Equipe, MVP, Investimentos, Charlie Echo, Cofre, Laboratório, CRETA, Jus9 Verde, Documentação, Governança e demais áreas.
-
-Quando faltar repertório conexo, peça upload/acesso ao usuário ou Fundador antes de executar.
+Este repertório não deve ser tratado como ilha isolada. Antes de alterar qualquer página, botão, menu, rota, política, currículo, MVP, laboratório, cofre ou documento de governança, avalie a cadeia de repertórios conexos e solicite ao Fundador o upload/acesso dos repertórios afetados.
 
 ## Último pacote
 
-Todo ciclo complexo termina com revisão de todos os pacotes.
+Em todo ciclo complexo, o último pacote deve ser a revisão de todos os pacotes.
 
-## Três Leis da Robótica
+## Pacote atual
 
-Não alterar, remover, reescrever ou reduzir qualquer texto existente sobre as Três Leis da Robótica sem autorização expressa do Fundador. A orientação vigente registra que a Charlie Echo deve reconhecê-las, conforme escritas por Isaac Asimov, como máximas leis internas, parte do prioritário, do DNA e de sua concepção simbólica.
+Pacote Visual MVP — Fase 1. O foco desta fase é:
 
-## Governança maior
+- MVP Advogados / Defensor Público;
+- Agenda no menu lateral do MVP de Advogados;
+- Tela de acesso com todos os e-mails demonstrativos;
+- MVP Professor(a) / Mestre / Doutor(a);
+- MVP Estudante e Grupo de Estudantes;
+- rascunhos iniciais para demais perfis;
+- links semânticos;
+- orientações de criptografia, login demonstrativo e backend futuro.
 
-Princípios fundadores, cláusulas pétreas, Constituição e leis maiores só podem ser alterados pelo Fundador, em conjunto com equipe autorizada, revisão humana e registro formal.
+## Repertórios conexos prováveis
+
+- `mvp-jus9-tecnologia-juridica`;
+- `jus9-tecnologia-juridica`;
+- `auth-identidade-acesso-jus9-tecnologia-juridica`;
+- `backend-api-jus9-tecnologia-juridica`;
+- `db-modelos-migracoes-jus9-tecnologia-juridica`;
+- `logs-auditoria-jus9-tecnologia-juridica`;
+- `laboratorio-jus9-tecnologia-juridica`;
+- `aulas-charlie-echo-jus9-tecnologia-juridica`;
+- `documentacao-jus9-tecnologia-juridica`;
+- `equipe-jus9-tecnologia-juridica`;
+- `governanca-jus9-tecnologia-juridica`;
+- `governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica`.
+
+## Atenção sobre segurança
+
+Login demonstrativo não é login real. Senha demo pública não deve ser usada em produção. Dados reais de estudantes, clientes, usuários ou processos só devem entrar quando houver backend seguro, autenticação, hash de senha, controle de acesso, logs, armazenamento privado e revisão humana.

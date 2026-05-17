@@ -1,0 +1,52 @@
+<svg width="1080" height="360" viewBox="0 0 1080 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title>Jus 9 Tecnologia Jurídica — símbolo completo</title>
+<desc>Símbolo completo da Jus 9 com estrela de nove pontas, seta central, arcos desarmados em forma de 9 e 9 invertido, corda-balanca e wordmark.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" x2="1">
+    <stop offset="0%" stop-color="#9D6414"/>
+    <stop offset="36%" stop-color="#FFE8A8"/>
+    <stop offset="62%" stop-color="#D49A2A"/>
+    <stop offset="100%" stop-color="#8C540D"/>
+  </linearGradient>
+  <linearGradient id="silver" x1="0" x2="1">
+    <stop offset="0%" stop-color="#9AA6B8"/>
+    <stop offset="38%" stop-color="#FFFFFF"/>
+    <stop offset="100%" stop-color="#B8C2D3"/>
+  </linearGradient>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity=".35"/>
+  </filter>
+</defs>
+<rect width="1080" height="360" fill="none"/>
+<g transform="translate(20,18)" filter="url(#soft)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 220.00 22.00 L 225.47 42.96 L 243.14 30.42 L 233.86 50.00 L 255.45 51.75 L 235.76 60.78 L 251.18 76.00 L 230.28 70.26 L 232.31 91.83 L 220.00 74.00 L 207.69 91.83 L 209.72 70.26 L 188.82 76.00 L 204.24 60.78 L 184.55 51.75 L 206.14 50.00 L 196.86 30.42 L 214.53 42.96 Z" fill="url(#gold)" stroke="#FFE6A0" stroke-width="2"/>
+  <!-- seta/eixo central -->
+  <path d="M220 92 L184 170 L207 164 L207 284 L220 305 L233 284 L233 164 L256 170 Z" fill="url(#silver)" stroke="#07111F" stroke-width="4"/>
+  <path d="M220 92 L220 302" stroke="#D9A438" stroke-width="3"/>
+  <!-- corda/arcos desarmados formando a balança -->
+  <path d="M96 142 C136 106, 181 102, 220 126 C259 102, 304 106, 344 142" fill="none" stroke="url(#gold)" stroke-width="12"/>
+  <path d="M96 142 C136 117, 181 116, 220 134 C259 116, 304 117, 344 142" fill="none" stroke="#FFE6A0" stroke-width="2" opacity=".7"/>
+  <!-- 9 e 9 invertido / arcos em repouso -->
+  <path d="M177 162 C126 164, 112 232, 160 246 C199 258, 223 220, 196 196 C179 181,151 187,150 211 C150 225,166 232,178 222" fill="none" stroke="url(#gold)" stroke-width="17"/>
+  <path d="M263 162 C314 164, 328 232, 280 246 C241 258, 217 220, 244 196 C261 181,289 187,290 211 C290 225,274 232,262 222" fill="none" stroke="url(#gold)" stroke-width="17"/>
+  <path d="M177 162 C126 164, 112 232, 160 246 C199 258, 223 220, 196 196 C179 181,151 187,150 211 C150 225,166 232,178 222" fill="none" stroke="#5B3508" stroke-width="3" opacity=".55"/>
+  <path d="M263 162 C314 164, 328 232, 280 246 C241 258, 217 220, 244 196 C261 181,289 187,290 211 C290 225,274 232,262 222" fill="none" stroke="#5B3508" stroke-width="3" opacity=".55"/>
+  <!-- correntes e pratos -->
+  <circle cx="96" cy="142" r="9" fill="#07111F" stroke="url(#gold)" stroke-width="7"/>
+  <circle cx="344" cy="142" r="9" fill="#07111F" stroke="url(#gold)" stroke-width="7"/>
+  <path d="M96 154 L62 222 M96 154 L130 222 M344 154 L310 222 M344 154 L378 222" stroke="url(#gold)" stroke-width="4"/>
+  <path d="M54 222 C66 245,126 245,138 222 Z" fill="url(#gold)" stroke="#FFE6A0" stroke-width="2"/>
+  <path d="M302 222 C314 245,374 245,386 222 Z" fill="url(#gold)" stroke="#FFE6A0" stroke-width="2"/>
+  <path d="M74 170 L62 222 M86 164 L78 222 M106 164 L114 222 M118 170 L130 222" stroke="#FFE6A0" stroke-width="1.4" opacity=".75"/>
+  <path d="M322 170 L310 222 M334 164 L326 222 M354 164 L362 222 M366 170 L378 222" stroke="#FFE6A0" stroke-width="1.4" opacity=".75"/>
+</g>
+<g transform="translate(455,117)" filter="url(#soft)">
+  <text x="0" y="95" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="112" letter-spacing="2">
+    <tspan fill="url(#silver)">JUS</tspan><tspan fill="url(#gold)"> 9</tspan>
+  </text>
+  <line x1="0" y1="126" x2="70" y2="126" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <!-- Correção: canvas expandido para preservar o A final de JURÍDICA. -->
+  <text x="88" y="137" font-family="Inter, Arial, sans-serif" font-weight="650" font-size="24" letter-spacing="9" fill="#E7C36C">TECNOLOGIA JURÍDICA</text>
+  <line x1="500" y1="126" x2="570" y2="126" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>
