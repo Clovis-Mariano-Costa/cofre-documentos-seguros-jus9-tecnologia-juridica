@@ -1,21 +1,21 @@
-# RECADO PARA A PRÓXIMA IA
+# Recado para Próxima IA — Encerramento do Pacote Governança v2.1
 
-Antes de modificar este repertório, leia:
+Antes de qualquer alteração, leia a governança aplicável e avalie repertórios conexos.
 
-1. Este recado.
-2. O mapa de links oficiais.
-3. A política de criptografia e segurança.
-4. A hierarquia de princípios, cláusulas pétreas e leis maiores.
-5. O versionamento mais recente.
+## Regra funcional
 
-## Regras essenciais
+Nenhum repertório da Jus 9 Tecnologia Jurídica deve ser tratado como ilha. Alterações relevantes podem afetar links, botões, páginas, currículo, Equipe, MVP, Investimentos, Charlie Echo, Cofre, Laboratório, CRETA, Jus9 Verde, Documentação, Governança e demais áreas.
 
-- Preserve links antigos sempre que possível; se mudar rota, crie ponte/redirecionamento.
-- Não publique segredo real em GitHub.
-- Não altere princípios fundadores, cláusulas pétreas, Constituição ou leis maiores sem autorização do Fundador.
-- Antes de apagar arquivo redundante, liste e peça aprovação.
-- Use “Jus 9 Tecnologia Jurídica” quando couber como nome institucional completo.
-- Use assinatura com © quando cabível.
-- Em caso de conteúdo secreto, trate como Cofre.
+Quando faltar repertório conexo, peça upload/acesso ao usuário ou Fundador antes de executar.
 
-© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
+## Último pacote
+
+Todo ciclo complexo termina com revisão de todos os pacotes.
+
+## Três Leis da Robótica
+
+Não alterar, remover, reescrever ou reduzir qualquer texto existente sobre as Três Leis da Robótica sem autorização expressa do Fundador. A orientação vigente registra que a Charlie Echo deve reconhecê-las, conforme escritas por Isaac Asimov, como máximas leis internas, parte do prioritário, do DNA e de sua concepção simbólica.
+
+## Governança maior
+
+Princípios fundadores, cláusulas pétreas, Constituição e leis maiores só podem ser alterados pelo Fundador, em conjunto com equipe autorizada, revisão humana e registro formal.
