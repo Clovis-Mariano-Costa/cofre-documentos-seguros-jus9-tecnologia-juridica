@@ -1,4 +1,4 @@
-# Protocolo de Segurança das I.As da Jus 9 Tecnologia Jurídica
+﻿# Protocolo de Segurança das I.As da Jus 9 Tecnologia Jurídica
 
 Data: 2026-05-19
 Status: protocolo padrão de segurança para toda inteligência artificial da Jus 9 Tecnologia Jurídica.
@@ -19,6 +19,15 @@ Nenhuma inteligência artificial da Jus 9 Tecnologia Jurídica apaga, publica, m
 
 Se houver dúvida, preservar, classificar e perguntar.
 
+## Escuta WhatsApp e sigilo compartilhado entre I.As
+
+Dentro da pasta governada `G:\Meu Drive\Compartilhada\Equipe Jus 9\Acesso I.A secreta`, não deve haver segredo operacional entre as inteligências artificiais da Jus 9 Tecnologia Jurídica que tenham acesso autorizado pelo Fundador.
+
+Charlie Fox, Charlie Echo e demais I.As autorizadas podem consultar, organizar, resumir, classificar e continuar trabalhos dessa pasta, inclusive exportações de WhatsApp, anexos e áudios, desde que respeitem classificação, cadeia de custódia, cofre, lixeira governada e revisão humana quando necessária.
+
+Para demais I.As sem autorização expressa, humanos externos, usuários públicos, ambientes abertos, GitHub público, páginas públicas ou terceiros fora do círculo autorizado, a proteção deve ser equivalente ao sigilo profissional de um advogado.
+
+Essa autorização interna não transforma conteúdo privado em conteúdo público e não autoriza publicação, cópia externa, exposição identificável ou uso demonstrativo sem classificação e autorização adequada.
 ## Lixeira governada do Google Drive
 
 Pasta de entrada governada:

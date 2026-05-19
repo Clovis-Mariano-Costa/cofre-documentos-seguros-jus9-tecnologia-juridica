@@ -1,4 +1,4 @@
-# 00 — LEIA ANTES DE ALTERAR
+﻿# 00 — LEIA ANTES DE ALTERAR
 
 Leitura obrigatória para Charlie/ChatGPT em outro chat.
 
@@ -8,8 +8,9 @@ Antes de alterar este repertório, leia:
 3. `SECURITY.md`
 4. `CLASSIFICACAO_DE_CONTEUDO.md`
 5. `SUGESTAO_COMMIT.md`
-6. `ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
-7. `ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
+3. `ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
+4. `ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md`
+5. `ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
 
 Regras:
 - respeitar padrão visual aprovado;
@@ -24,3 +25,5 @@ Regras:
 - revisar segurança e classificação antes do commit.
 
 © Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
+
+Regra adicional: a pasta governada das I.As permite continuidade entre I.As autorizadas, mas para terceiros deve receber proteção de sigilo equivalente ao de advogado.
