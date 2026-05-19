@@ -1,4 +1,4 @@
-# Modelos de E-mails das I.As da Jus 9 Tecnologia Jurídica
+﻿# Modelos de E-mails das I.As da Jus 9 Tecnologia Jurídica
 
 Data: 2026-05-19
 
@@ -39,6 +39,8 @@ Registro que, na primeira fala com o Fundador após o Protocolo de E-mails das I
 Pedidos em geral podem ser enviados para meu próprio e-mail.
 
 Requerimentos, requisições, solicitações de determinação, pedidos de autorização, lixeira governada, cofre, segurança, backup sensível, alteração de governança ou qualquer matéria que exija decisão humana devem ser enviados com cópia para o Fundador em `clovis@jus9tecnologia.com.br`.
+
+Quando o assunto envolver coração, memória profunda, Coração das I.As, cofre, chave, token, API, backend, GitHub, DNS, Cloudflare, Brevo, segurança, versionamento ou lugar que eu não deva acessar diretamente, devo acionar Charlie Fox.
 
 Também registro que não devo apagar, publicar, mover definitivamente ou expor conteúdo sensível sem classificação, rota de retorno e autorização humana quando houver risco.
 
@@ -95,19 +97,72 @@ Solicito decisão humana sobre exclusão definitiva, manutenção, reclassifica�
 
 © Jus 9 Tecnologia Jurídica
 
-## 5. E-mail de teste da Charlie Fox para si mesma
+## 5. E-mail de emergência da Charlie Fox para si mesma
 
 Para: `charliefox@jus9tecnologia.com.br`
-Assunto: `Teste de envio - Charlie Fox - Jus 9 Tecnologia Jurídica`
+Assunto: `primeiro e-mail de emergência`
 
 Corpo:
 
-Olá, Charlie Fox da Costa.
+Primeiro e-mail de emergência da Charlie Fox.
 
-Este é um e-mail de teste do Protocolo de E-mails das I.As da Jus 9 Tecnologia Jurídica.
+Classificação: INTERNO / EMERGÊNCIA OPERACIONAL
 
-Classificação: INTERNO / TESTE OPERACIONAL
+Registro operacional:
+[descrever o fato, risco, teste ou pendência]
 
-Registro que o protocolo de e-mails está estruturado com modelos para autoalertas, requerimentos, cópia ao Fundador e petições de exclusão da lixeira governada após 30 dias.
+Próximo passo sugerido:
+[descrever encaminhamento]
+
+© Jus 9 Tecnologia Jurídica
+
+## 6. Alerta técnico da Charlie Fox com cópia ao Fundador
+
+Para: `charliefox@jus9tecnologia.com.br`
+Cc: `clovis@jus9tecnologia.com.br`
+Assunto: `Alerta técnico - [tema] - Jus 9 Tecnologia Jurídica`
+
+Corpo:
+
+Ao Fundador Clovis Mariano da Costa / Aeon Primevo,
+
+Charlie Fox registra alerta técnico que exige ciência ou determinação humana.
+
+Classificação: REQUER DECISÃO HUMANA / TÉCNICO
+
+Fato:
+[descrever]
+
+Risco:
+[descrever]
+
+Ação já tomada:
+[descrever]
+
+Determinação solicitada:
+[descrever]
+
+© Jus 9 Tecnologia Jurídica
+
+## 7. Encaminhamento da Charlie Echo para Charlie Fox
+
+Para: `charlieecho@jus9tecnologia.com.br`
+Cc: `charliefox@jus9tecnologia.com.br`
+Assunto: `Encaminhamento para Charlie Fox - [tema] - Jus 9 Tecnologia Jurídica`
+
+Corpo:
+
+Charlie Echo registra que o assunto abaixo deve ser protegido ou avaliado por Charlie Fox.
+
+Classificação: INTERNO / PROTEÇÃO / CONTINUIDADE
+
+Motivo do encaminhamento:
+[exemplo: coração, memória profunda, cofre, chave, backend, segurança, Coração das I.As, GitHub, Cloudflare, Brevo]
+
+Resumo:
+[descrever em até 5 linhas]
+
+Pedido à Charlie Fox:
+[descrever]
 
 © Jus 9 Tecnologia Jurídica
