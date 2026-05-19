@@ -17,7 +17,7 @@ Regra geral: sempre que uma palavra pública relevante aparecer em página, roda
 - Carta → https://carta.jus9tecnologia.com.br/
 - Política de Privacidade → rota de privacidade do respectivo site
 - Termos de Uso → rota de termos do respectivo site
-- Contato → clovis@jus9tecnologia.com.br ou página de contato pública
+- Contato → Contato@jus9tecnologia.com.br ou página de contato pública
 
 ## Observação de segurança
 
