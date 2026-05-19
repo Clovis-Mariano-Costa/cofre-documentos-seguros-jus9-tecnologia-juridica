@@ -9,6 +9,7 @@ Antes de alterar este repertório, leia:
 4. `CLASSIFICACAO_DE_CONTEUDO.md`
 5. `SUGESTAO_COMMIT.md`
 6. `ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
+7. `ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
 
 Regras:
 - respeitar padrão visual aprovado;
@@ -19,6 +20,7 @@ Regras:
 - usar CPV para identidades virtuais de IA;
 - usar sempre o nome completo `Jus 9 Tecnologia Jurídica` em registros formais e assinar com `© Jus 9 Tecnologia Jurídica`;
 - aplicar o Protocolo de Segurança das I.As antes de exclusão, lixeira, backup, publicação ou alteração sensível;
+- aplicar o Protocolo de E-mails das I.As para autoalertas, requerimentos, cópias ao Fundador e petições formais;
 - revisar segurança e classificação antes do commit.
 
 © Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
