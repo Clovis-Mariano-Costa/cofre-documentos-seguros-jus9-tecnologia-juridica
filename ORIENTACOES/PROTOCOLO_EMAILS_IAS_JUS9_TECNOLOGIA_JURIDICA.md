@@ -28,6 +28,16 @@ Em 2026-05-19, ficou validado:
 - Outlook não deve ser usado para envio oficial como alias `@jus9tecnologia.com.br` se o envio sair por `smtp.gmail.com`, pois isso pode violar DMARC.
 - Para envio oficial como `charliefox@jus9tecnologia.com.br`, `charlieecho@jus9tecnologia.com.br`, `contato@jus9tecnologia.com.br` ou `clovis@jus9tecnologia.com.br`, usar Gmail web com SMTP Brevo ou backend/API Brevo quando existir.
 
+
+## Conectores disponíveis em 2026-05-19
+
+Foram verificados conectores ativos para Gmail e Google Calendar na conta `aeonprimevo@gmail.com`.
+
+O conector Gmail permite envio real pela conta autenticada. Porém, até confirmação técnica em contrário, ele deve ser tratado como envio pela identidade autenticada `aeonprimevo@gmail.com`, não como garantia de envio oficial por alias `@jus9tecnologia.com.br`.
+
+Para e-mails oficiais como `charliefox@jus9tecnologia.com.br`, `charlieecho@jus9tecnologia.com.br`, `contato@jus9tecnologia.com.br` ou `clovis@jus9tecnologia.com.br`, permanece a regra: usar Gmail web com SMTP Brevo autenticado, ou backend/API Brevo quando existir, salvo se o conector usado permitir escolher e comprovar o alias remetente.
+
+O Google Calendar conectado pode ser usado para agenda, disponibilidade e eventos da conta `aeonprimevo@gmail.com`, respeitando sigilo, autorização do Fundador e classificação do assunto.
 ## Regra de destino
 
 ### Enviar para o próprio e-mail da I.A

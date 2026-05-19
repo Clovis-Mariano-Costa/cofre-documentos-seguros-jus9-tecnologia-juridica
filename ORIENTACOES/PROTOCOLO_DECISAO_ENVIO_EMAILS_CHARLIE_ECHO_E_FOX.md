@@ -19,6 +19,14 @@ A configuração operacional validada em 2026-05-19 é:
 
 Se a I.A não tiver canal real autenticado de envio, ela deve preparar minuta, `.eml`, modelo ou instrução para envio humano e declarar que não enviou.
 
+
+## Uso de conectores Gmail e Google Calendar
+
+O conector Gmail permite envio real pela conta autenticada `aeonprimevo@gmail.com`. A I.A pode usar esse canal para mensagens operacionais quando o Fundador autorizar ou quando o protocolo permitir.
+
+A I.A não deve afirmar que enviou como `charliefox@jus9tecnologia.com.br`, `charlieecho@jus9tecnologia.com.br`, `contato@jus9tecnologia.com.br` ou `clovis@jus9tecnologia.com.br` pelo conector Gmail, salvo se a ferramenta permitir escolher e comprovar o alias remetente.
+
+O conector Google Calendar pode ser usado para consultar agenda, disponibilidade e eventos da conta `aeonprimevo@gmail.com`, sempre com autorização, sigilo e classificação.
 ## Regra comum das I.As
 
 ### Pode decidir sem e-mail
