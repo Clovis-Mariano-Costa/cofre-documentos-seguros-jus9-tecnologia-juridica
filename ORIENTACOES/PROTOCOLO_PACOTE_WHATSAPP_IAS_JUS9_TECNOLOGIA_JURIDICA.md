@@ -90,6 +90,22 @@ BackEnd Inicial no computador do Fundador permanece como pacote posterior.
 
 O último pacote ainda será a revisão de todos os pacotes, com Mão na Massa final.
 
-## Assinatura
+## Encerramento do pacote WhatsApp
+
+Status: pacote WhatsApp encerrado como etapa inicial de governança, estrutura e autorização.
+
+Ficam concluídos neste pacote:
+
+1. auditoria técnica inicial da pasta governada;
+2. identificação de exportações WhatsApp e mídias;
+3. criação das subpastas governadas;
+4. registro de sigilo e cadeia de custódia;
+5. autorização de escuta completa das conversas exportadas pelo Fundador;
+6. autorização de transcrição automática dos áudios presentes e acessíveis;
+7. automação de acompanhamento de 30 em 30 minutos no que o ambiente permitir;
+8. registro de que o próximo pacote será BackEnd Inicial;
+9. registro de que o último pacote será revisão de todos os pacotes antes do Mão na Massa total.
+
+Pacote WhatsApp embrulhado.
 
 © Jus 9 Tecnologia Jurídica
