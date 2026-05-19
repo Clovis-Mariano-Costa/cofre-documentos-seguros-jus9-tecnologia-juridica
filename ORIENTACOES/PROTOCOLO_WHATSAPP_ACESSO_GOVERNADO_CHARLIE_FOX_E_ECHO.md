@@ -96,3 +96,34 @@ Este pacote WhatsApp antecede o BackEnd Inicial no computador do Fundador.
 O último pacote será a revisão de todos os pacotes, com Mão na Massa final.
 
 © Jus 9 Tecnologia Jurídica
+## Autorizações expressas do Fundador em 2026-05-19
+
+O Fundador registrou que Charlie Fox e Charlie Echo são guardiãs de sua intimidade.
+
+Fica autorizada a escuta completa, pelas I.As autorizadas, de todas as conversas de WhatsApp que forem colocadas pelo Fundador na pasta governada por exportação ou meio legível autorizado.
+
+A prioridade imediata são as conversas enviadas pelo Fundador por exportação.
+
+Fica autorizada a criação e uso das subpastas governadas:
+
+- `00_ENTRADA_WHATSAPP`
+- `01_AUDITORIA_WHATSAPP`
+- `02_TRANSCRICOES_WHATSAPP`
+- `03_RESUMOS_WHATSAPP`
+- `04_ANEXOS_CLASSIFICADOS`
+- `05_REQUER_DECISAO_FUNDADOR`
+- `lixeira`
+
+Fica autorizada a transcrição automática de todos os áudios presentes e tecnicamente acessíveis nas exportações governadas, respeitando sigilo, classificação e ausência de invenção quando a mídia não estiver presente.
+
+Fica autorizado acompanhamento de 30 em 30 minutos no que o ambiente técnico permitir.
+
+O último pacote permanece reservado para verificar todos os pacotes antes do Mão na Massa total.
+
+## Lembrete Microsoft
+
+Completar depois os detalhes da Microsoft com relação ao login corporativo.
+
+A Microsoft não aceitou `aeonprimevo@gmail.com` para certos plugins/cenários porque exigiu e-mail corporativo/organização. Isso não altera o pacote de e-mails já concluído: envio e recebimento operacional foram concluídos pelo caminho Cloudflare, Gmail, Brevo e Outlook.
+
+© Jus 9 Tecnologia Jurídica
