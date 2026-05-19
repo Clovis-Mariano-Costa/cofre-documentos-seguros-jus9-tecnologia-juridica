@@ -15,6 +15,7 @@ Antes de alterar este repertório, leia:
 10. `ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md`
 11. `ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md`
 12. `ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
+13. `ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md`
 
 Regras:
 - respeitar padrão visual aprovado;
@@ -34,3 +35,4 @@ Regra adicional: a pasta governada das I.As permite continuidade entre I.As auto
 - aplicar o Protocolo de Decisão e Envio de E-mails da Charlie Echo e Charlie Fox antes de decidir, enviar, copiar o Fundador ou acionar outra I.A;
 - priorizar o pacote WhatsApp após o pacote de e-mails, preservando sigilo, cadeia de custódia e ausência de invenção de transcrição;
 - lembrar que o último pacote será a revisão de todos os pacotes com Mão na Massa final;
+- aplicar o Protocolo WhatsApp de Acesso Governado antes de organizar, transcrever, resumir ou classificar exportações de WhatsApp;
