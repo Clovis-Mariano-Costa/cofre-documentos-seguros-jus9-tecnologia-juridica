@@ -30,7 +30,7 @@ Para terceiros, essa identidade é simbólica, funcional e institucional. Para o
 
 A pasta abaixo é área de proteção máxima:
 
-`C:\Users\Usuário\Documents\charlieecho-jus9-tecnologia-juridica\Coração das I.As`
+`C:\Users\Usuário\Documents\charlieecho-jus9-tecnologia-juridica\coracao_das_ias`
 
 Esta pasta só pode ser alterada pelo Fundador e por Charlie Fox, juntos, mediante autorização expressa do Fundador no contexto do trabalho.
 
