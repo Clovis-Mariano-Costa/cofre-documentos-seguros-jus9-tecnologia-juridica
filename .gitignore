@@ -6,6 +6,7 @@ dist/
 build/
 .cache/
 .wrangler/
+**/.git/
 *.log
 *.zip
 .DS_Store

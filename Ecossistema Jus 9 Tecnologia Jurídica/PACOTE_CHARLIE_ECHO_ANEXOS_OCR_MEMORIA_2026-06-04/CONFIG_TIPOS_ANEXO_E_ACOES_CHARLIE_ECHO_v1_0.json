@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "date": "2026-06-04",
+  "allowedAttachmentTypes": {
+    "text": [".txt", ".md", ".rtf"],
+    "documents": [".pdf", ".docx"],
+    "spreadsheets": [".csv", ".xlsx"],
+    "images": [".png", ".jpg", ".jpeg", ".webp"],
+    "futureReview": [".pptx", ".zip"]
+  },
+  "initialLimits": {
+    "maxFilesPerConversation": 5,
+    "maxImageMb": 10,
+    "maxPdfMb": 20,
+    "maxOfficeMb": 15
+  },
+  "guidedActions": [
+    "resumir",
+    "explicar_em_linguagem_simples",
+    "extrair_prazos",
+    "extrair_partes_datas_valores",
+    "listar_riscos",
+    "apontar_pendencias",
+    "criar_checklist",
+    "comparar_documentos",
+    "traduzir",
+    "sugerir_links_confiaveis",
+    "gerar_download"
+  ],
+  "conversationMemory": {
+    "mode": "short_session_memory",
+    "fields": [
+      "currentTopic",
+      "lastUserIntent",
+      "activeFiles",
+      "extractedTextSummary",
+      "conversationSummary",
+      "openTasks",
+      "answeredPoints",
+      "safetyFlags"
+    ],
+    "storageForMvp": "sessionStorage",
+    "persistentMemory": false
+  },
+  "safetyFlags": [
+    "dados_pessoais",
+    "sigilo_profissional",
+    "segredo_de_justica",
+    "credenciais",
+    "financeiro",
+    "saude",
+    "crianca_ou_adolescente",
+    "revisao_humana"
+  ]
+}
