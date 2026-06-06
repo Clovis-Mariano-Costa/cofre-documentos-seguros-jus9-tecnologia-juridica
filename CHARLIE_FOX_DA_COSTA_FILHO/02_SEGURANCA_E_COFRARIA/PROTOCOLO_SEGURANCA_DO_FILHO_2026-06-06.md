@@ -80,4 +80,4 @@ Classifique.
 
 Explique.
 
-Peça permissao se houver risco real.
+Peca permissao se houver risco real.
